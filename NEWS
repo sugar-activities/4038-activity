@@ -1,0 +1,95 @@
+26
+
+*Enabling english_rp and english_wmids accents
+
+25
+
+*Adding AUTHORS file
+*pep8 fixes
+*Being more polite
+*Adding new answers
+*New pootle templates
+
+24
+
+*Fixing SL#2703
+
+23
+
+* Installing as speak.activity as default not as hablarconsara 
+
+22
+
+* Fixing  #2630 b.sl.o and d.l.o #10666
+
+21
+
+* Speak's robot is missing a some nouns in os439dg on XO-1.5 #2566
+* Switch face voice to known language for robot on fallback
+* More AIML tweaks
+
+20
+
+* Translate only first part of voice names (ie language name)
+* Use short voice names while choosing Robot tab language
+* Update es translation
+
+19
+
+* talk to computer crashes #2533
+* Use the same default rate in espeak command mode like in gst mode #2182
+* Update ta translation
+
+18
+
+* Remove content from AIML sets that is inappropriate to education
+
+17
+
+* Get rid of "smart" bundles(for ASLO).. and look ahead for smart packaging system
+* Add copyright notes to python files
+
+16
+
+* Fix launching under rainbow
+
+15
+
+* Switch to restricted 0sugar mode until more complex solution is accessible,
+  like Saccharin sugar distribution
+* Traslation fixes
+
+14
+
+* Workaround for #1801
+* Update vi translation
+
+13
+
+* Speak dies in robot mode #1779
+* Update fr translation
+
+12
+
+* Add toolkit service to use new toolbars design in all supported sugars
+* Add gst-plugins-espeak service to use gst in 0.82
+* Speak offline mode warning
+* Do not cache bot brains to save memory
+* Load standard AIML set for restricted systems
+* Implant xeyes
+
+11
+
+* Pronounce gettext strings in native language
+* Load brain after choosing voice from combobox in "Robot" tab
+* Add ru.po
+
+10
+
+* Merge HabarConSara branch
+* Add "Robot" tab to use HabarConSara functionality
+* #743: FIx crash for as sintaxis (dirakx)
+
+7
+
+* #7852: Fix crash on launch by using numpy (morgs)
